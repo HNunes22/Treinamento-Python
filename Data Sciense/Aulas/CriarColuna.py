@@ -11,4 +11,4 @@ print(datas.sort_values('Total', ascending=False))  # Exibe a tabela para qual j
 
 # Transformar o arquivo atual em um novo arquivo
 
-datas.to_csv('../DataSets/DataSetsTestes/fifaPlayers.csv', index=False)
+datas.to_csv('../AppAnalistaDeImoveis/DataSetsTestes/fifaPlayers.csv', index=False)
